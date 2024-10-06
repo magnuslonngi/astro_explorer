@@ -1,0 +1,4228 @@
+{
+    "exoplanets": [
+        {
+            "name": "24 Sex b",
+            "data": {
+                "pl_orbper": "452.8",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2010",
+                "disc_pubdate": "2011-01",
+                "disc_facility": "Lick Observatory",
+                "disc_telescope": "3.0 m C. Donald Shane Telescope",
+                "disc_instrument": "Hamilton Echelle Spectrograph"
+            }
+        },
+        {
+            "name": "24 Sex c",
+            "data": {
+                "pl_orbper": "883.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2010",
+                "disc_pubdate": "2011-01",
+                "disc_facility": "Lick Observatory",
+                "disc_telescope": "3.0 m C. Donald Shane Telescope",
+                "disc_instrument": "Hamilton Echelle Spectrograph"
+            }
+        },
+        {
+            "name": "75 Cet b",
+            "data": {
+                "pl_orbper": "691.9",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2012",
+                "disc_pubdate": "2012-12",
+                "disc_facility": "Okayama Astrophysical Observatory",
+                "disc_telescope": "1.88 m Telescope",
+                "disc_instrument": "HIDES Echelle Spectrograph"
+            }
+        },
+        {
+            "name": "BD+15 2375 b",
+            "data": {
+                "pl_orbper": "153.22",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-04",
+                "disc_facility": "Roque de los Muchachos Observatory",
+                "disc_telescope": "3.58 m Telescopio Nazionale Galileo",
+                "disc_instrument": "HARPS-N Spectrograph"
+            }
+        },
+        {
+            "name": "BD+15 2940 b",
+            "data": {
+                "pl_orbper": "137.48",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2013",
+                "disc_pubdate": "2013-06",
+                "disc_facility": "McDonald Observatory",
+                "disc_telescope": "9.2 m Hobby-Eberly Telescope",
+                "disc_instrument": "High Resolution Spectrograph"
+            }
+        },
+        {
+            "name": "CFBDSIR J145829+101343 b",
+            "data": {
+                "pl_orbper": "10037.5",
+                "discoverymethod": "Imaging",
+                "disc_year": "2011",
+                "disc_pubdate": "2011-10",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck II Telescope",
+                "disc_instrument": "NIRC2 Camera"
+            }
+        },
+        {
+            "name": "CoRoT-5 b",
+            "data": {
+                "pl_orbper": "4.0378962",
+                "discoverymethod": "Transit",
+                "disc_year": "2009",
+                "disc_pubdate": "2009-10",
+                "disc_facility": "CoRoT",
+                "disc_telescope": "0.27 m CoRoT Telescope",
+                "disc_instrument": "CoRoT CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 201238110 b",
+            "data": {
+                "pl_orbper": "28.1696",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 201427007 b",
+            "data": {
+                "pl_orbper": "0.72091",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 201497682 b",
+            "data": {
+                "pl_orbper": "2.13174",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 201595106 b",
+            "data": {
+                "pl_orbper": "0.87703",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 201615463 c",
+            "data": {
+                "pl_orbper": "3.80464",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 201754305 d",
+            "data": {
+                "pl_orbper": "2.71578",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 201757695.02",
+            "data": {
+                "pl_orbper": "2.0478",
+                "discoverymethod": "Transit",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 201833600 c",
+            "data": {
+                "pl_orbper": "3.96151",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 201841433 b",
+            "data": {
+                "pl_orbper": "4.1698",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 206215704 b",
+            "data": {
+                "pl_orbper": "2.255436",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 211822797 b",
+            "data": {
+                "pl_orbper": "21.169861",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2017-02",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 211945201 b",
+            "data": {
+                "pl_orbper": "19.4921498",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 220492298 b",
+            "data": {
+                "pl_orbper": "0.762406",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 220554210 c",
+            "data": {
+                "pl_orbper": "0.70531",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 220674823 b",
+            "data": {
+                "pl_orbper": "0.571292",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2017-02",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 220674823 c",
+            "data": {
+                "pl_orbper": "13.341245",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2017-02",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 229004835 b",
+            "data": {
+                "pl_orbper": "16.141132",
+                "discoverymethod": "Transit",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-04",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "EPIC 246851721 b",
+            "data": {
+                "pl_orbper": "6.180235",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "GJ 1002 b",
+            "data": {
+                "pl_orbper": "10.3465",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-12",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "GJ 1002 c",
+            "data": {
+                "pl_orbper": "21.202",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-12",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "GJ 1148 c",
+            "data": {
+                "pl_orbper": "535.9",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2017",
+                "disc_pubdate": "2018-02",
+                "disc_facility": "Calar Alto Observatory",
+                "disc_telescope": "3.5 m telescope",
+                "disc_instrument": "CARMENES"
+            }
+        },
+        {
+            "name": "GJ 3512 c",
+            "data": {
+                "pl_orbper": "1599.6",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-12",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "GJ 3929 c",
+            "data": {
+                "pl_orbper": "15.04",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-07",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "GJ 393 b",
+            "data": {
+                "pl_orbper": "7.02679",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-06",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "GJ 411 b",
+            "data": {
+                "pl_orbper": "12.9532",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-05",
+                "disc_facility": "Haute-Provence Observatory",
+                "disc_telescope": "1.93 m Telescope",
+                "disc_instrument": "SOPHIE Spectrograph"
+            }
+        },
+        {
+            "name": "GJ 486 b",
+            "data": {
+                "pl_orbper": "1.46711903",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-03",
+                "disc_facility": "Calar Alto Observatory",
+                "disc_telescope": "3.5 m telescope",
+                "disc_instrument": "CARMENES"
+            }
+        },
+        {
+            "name": "GJ 9404 b",
+            "data": {
+                "pl_orbper": "13.4586",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-08",
+                "disc_facility": "Roque de los Muchachos Observatory",
+                "disc_telescope": "3.58 m Telescopio Nazionale Galileo",
+                "disc_instrument": "HARPS-N Spectrograph"
+            }
+        },
+        {
+            "name": "GJ 9827 b",
+            "data": {
+                "pl_orbper": "1.2089819",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "GJ 9827 c",
+            "data": {
+                "pl_orbper": "3.64823",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "GJ 9827 d",
+            "data": {
+                "pl_orbper": "6.2014698",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "G 9-40 b",
+            "data": {
+                "pl_orbper": "5.746007",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2020-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HAT-P-19 b",
+            "data": {
+                "pl_orbper": "4.00878423",
+                "discoverymethod": "Transit",
+                "disc_year": "2010",
+                "disc_pubdate": "2011-01",
+                "disc_facility": "HATNet",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "2K CCD Sensor"
+            }
+        },
+        {
+            "name": "HAT-P-27 b",
+            "data": {
+                "pl_orbper": "3.0395802",
+                "discoverymethod": "Transit",
+                "disc_year": "2011",
+                "disc_pubdate": "2011-06",
+                "disc_facility": "HATNet",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "2K CCD Sensor"
+            }
+        },
+        {
+            "name": "HAT-P-3 b",
+            "data": {
+                "pl_orbper": "2.8997",
+                "discoverymethod": "Transit",
+                "disc_year": "2007",
+                "disc_pubdate": "2007-09",
+                "disc_facility": "HATNet",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "2K CCD Sensor"
+            }
+        },
+        {
+            "name": "HAT-P-44 b",
+            "data": {
+                "pl_orbper": "4.301219",
+                "discoverymethod": "Transit",
+                "disc_year": "2014",
+                "disc_pubdate": "2014-06",
+                "disc_facility": "HATNet",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "2K CCD Sensor"
+            }
+        },
+        {
+            "name": "HAT-P-44 c",
+            "data": {
+                "pl_orbper": "872.2",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2014",
+                "disc_pubdate": "2014-06",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HAT-P-50 b",
+            "data": {
+                "pl_orbper": "3.1220109",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-12",
+                "disc_facility": "HATNet",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HAT-P-51 b",
+            "data": {
+                "pl_orbper": "4.2180278",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-12",
+                "disc_facility": "HATNet",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HAT-P-67 b",
+            "data": {
+                "pl_orbper": "4.8099755",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-05",
+                "disc_facility": "HATNet",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "2K CCD Sensor"
+            }
+        },
+        {
+            "name": "HD 100655 b",
+            "data": {
+                "pl_orbper": "157.57",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2011",
+                "disc_pubdate": "2012-04",
+                "disc_facility": "Bohyunsan Optical Astronomical Observatory",
+                "disc_telescope": "1.8 m Telescope",
+                "disc_instrument": "BOES Echelle Spectrograph"
+            }
+        },
+        {
+            "name": "HD 102272 b",
+            "data": {
+                "pl_orbper": "127.58",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2008",
+                "disc_pubdate": "2009-03",
+                "disc_facility": "McDonald Observatory",
+                "disc_telescope": "9.2 m Hobby-Eberly Telescope",
+                "disc_instrument": "High Resolution Spectrograph"
+            }
+        },
+        {
+            "name": "HD 103720 b",
+            "data": {
+                "pl_orbper": "4.5557",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2014",
+                "disc_pubdate": "2015-04",
+                "disc_facility": "La Silla Observatory",
+                "disc_telescope": "3.6 m ESO Telescope",
+                "disc_instrument": "HARPS Spectrograph"
+            }
+        },
+        {
+            "name": "HD 106315 b",
+            "data": {
+                "pl_orbper": "9.55385",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-06",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HD 106315 c",
+            "data": {
+                "pl_orbper": "21.0576",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-06",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HD 110067 c",
+            "data": {
+                "pl_orbper": "13.673694",
+                "discoverymethod": "Transit",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-11",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 110067 f",
+            "data": {
+                "pl_orbper": "41.05854",
+                "discoverymethod": "Transit",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-11",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 110067 g",
+            "data": {
+                "pl_orbper": "54.76992",
+                "discoverymethod": "Transit",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-11",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 112640 b",
+            "data": {
+                "pl_orbper": "613.2",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-02",
+                "disc_facility": "Bohyunsan Optical Astronomical Observatory",
+                "disc_telescope": "1.8 m Telescope",
+                "disc_instrument": "BOES Echelle Spectrograph"
+            }
+        },
+        {
+            "name": "HD 113337 c",
+            "data": {
+                "pl_orbper": "5429.93477",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-09",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 115954 b",
+            "data": {
+                "pl_orbper": "3230.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-09",
+                "disc_facility": "Haute-Provence Observatory",
+                "disc_telescope": "1.93 m Telescope",
+                "disc_instrument": "SOPHIE Spectrograph"
+            }
+        },
+        {
+            "name": "HD 122562 c",
+            "data": {
+                "pl_orbper": "84.96276",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-09",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 12661 b",
+            "data": {
+                "pl_orbper": "262.709",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2000",
+                "disc_pubdate": "2001-04",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 131496 b",
+            "data": {
+                "pl_orbper": "896.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2011",
+                "disc_pubdate": "2011-12",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 132406 b",
+            "data": {
+                "pl_orbper": "964.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2007",
+                "disc_pubdate": "2007-10",
+                "disc_facility": "Haute-Provence Observatory",
+                "disc_telescope": "1.93 m Telescope",
+                "disc_instrument": "ELODIE Spectrograph"
+            }
+        },
+        {
+            "name": "HD 141399 e",
+            "data": {
+                "pl_orbper": "3717.35",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2014",
+                "disc_pubdate": "2014-06",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 148164 b",
+            "data": {
+                "pl_orbper": "328.55",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-11",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 1502 b",
+            "data": {
+                "pl_orbper": "431.8",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2011",
+                "disc_pubdate": "2011-12",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 156668 c",
+            "data": {
+                "pl_orbper": "811.3",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-07",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 210277 b",
+            "data": {
+                "pl_orbper": "442.1",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "1998",
+                "disc_pubdate": "1999-07",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 220197 b",
+            "data": {
+                "pl_orbper": "1728.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2018",
+                "disc_pubdate": "2019-01",
+                "disc_facility": "Roque de los Muchachos Observatory",
+                "disc_telescope": "3.58 m Telescopio Nazionale Galileo",
+                "disc_instrument": "HARPS-N Spectrograph"
+            }
+        },
+        {
+            "name": "HD 233832 b",
+            "data": {
+                "pl_orbper": "4047.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2018",
+                "disc_pubdate": "2019-01",
+                "disc_facility": "Roque de los Muchachos Observatory",
+                "disc_telescope": "3.58 m Telescopio Nazionale Galileo",
+                "disc_instrument": "HARPS-N Spectrograph"
+            }
+        },
+        {
+            "name": "HD 238090 b",
+            "data": {
+                "pl_orbper": "13.671",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-11",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 3167 b",
+            "data": {
+                "pl_orbper": "0.959641",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HD 3167 c",
+            "data": {
+                "pl_orbper": "29.8454",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HD 3167 d",
+            "data": {
+                "pl_orbper": "8.4112",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-09",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 3167 e",
+            "data": {
+                "pl_orbper": "102.09",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-09",
+                "disc_facility": "CHaracterising ExOPlanets Satellite (CHEOPS)",
+                "disc_telescope": "0.3 m Ritchey-Chretien Telescope",
+                "disc_instrument": "Teledyne e2v CCD detector"
+            }
+        },
+        {
+            "name": "HD 4203 b",
+            "data": {
+                "pl_orbper": "437.18",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2001",
+                "disc_pubdate": "2002-03",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 4313 b",
+            "data": {
+                "pl_orbper": "356.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2009",
+                "disc_pubdate": "2010-05",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 4760 b",
+            "data": {
+                "pl_orbper": "434.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-04",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 67087 c",
+            "data": {
+                "pl_orbper": "2374.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-06",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 72490 b",
+            "data": {
+                "pl_orbper": "858.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2018",
+                "disc_pubdate": "2019-04",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 73344 b",
+            "data": {
+                "pl_orbper": "15.61136333",
+                "discoverymethod": "Transit",
+                "disc_year": "2024",
+                "disc_pubdate": "2024-05",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HD 73534 b",
+            "data": {
+                "pl_orbper": "1707.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2008",
+                "disc_pubdate": "2009-09",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 75784 b",
+            "data": {
+                "pl_orbper": "341.2",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2014",
+                "disc_pubdate": "2015-01",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 75784 c",
+            "data": {
+                "pl_orbper": "5040.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-11",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 75898 b",
+            "data": {
+                "pl_orbper": "418.2",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2007",
+                "disc_pubdate": "2007-12",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 79498 b",
+            "data": {
+                "pl_orbper": "1966.1",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2011",
+                "disc_pubdate": "2012-04",
+                "disc_facility": "McDonald Observatory",
+                "disc_telescope": "2.7 m Harlan J. Smith Telescope",
+                "disc_instrument": "Tull Coude Spectrograph"
+            }
+        },
+        {
+            "name": "HD 80653 b",
+            "data": {
+                "pl_orbper": "0.719573",
+                "discoverymethod": "Transit",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-01",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HD 81040 b",
+            "data": {
+                "pl_orbper": "1001.70001",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2005",
+                "disc_pubdate": "2006-04",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 89744 b",
+            "data": {
+                "pl_orbper": "256.78",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "1999",
+                "disc_pubdate": "2000-04",
+                "disc_facility": "Fred Lawrence Whipple Observatory",
+                "disc_telescope": "1.5 m Tillinghast Reflector Telescope",
+                "disc_instrument": "AFOE Echelle Spectrograph"
+            }
+        },
+        {
+            "name": "HD 92788 b",
+            "data": {
+                "pl_orbper": "326.7",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2000",
+                "disc_pubdate": "2001-04",
+                "disc_facility": "Multiple Observatories",
+                "disc_telescope": "Multiple Telescopes",
+                "disc_instrument": "Multiple Instruments"
+            }
+        },
+        {
+            "name": "HD 97658 b",
+            "data": {
+                "pl_orbper": "9.4957",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2010",
+                "disc_pubdate": "2011-03",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HD 99492 b",
+            "data": {
+                "pl_orbper": "17.0431",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2004",
+                "disc_pubdate": "2005-01",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "HIP 41378 b",
+            "data": {
+                "pl_orbper": "15.5718552",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HIP 41378 c",
+            "data": {
+                "pl_orbper": "31.71802083",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HIP 41378 d",
+            "data": {
+                "pl_orbper": "278.3618",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HIP 41378 e",
+            "data": {
+                "pl_orbper": "131.0",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HIP 41378 f",
+            "data": {
+                "pl_orbper": "46.4",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "HR 8799 d",
+            "data": {
+                "pl_orbper": "--",
+                "discoverymethod": "Imaging",
+                "disc_year": "2008",
+                "disc_pubdate": "2008-11",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck II Telescope",
+                "disc_instrument": "NIRC2 Camera"
+            }
+        },
+        {
+            "name": "ITG 15 b",
+            "data": {
+                "pl_orbper": "--",
+                "discoverymethod": "Imaging",
+                "disc_year": "2024",
+                "disc_pubdate": "2024-01",
+                "disc_facility": "European Space Agency (ESA) Gaia Satellite",
+                "disc_telescope": "1.45 m x 0.5 m Telescope",
+                "disc_instrument": "Gaia CCD array"
+            }
+        },
+        {
+            "name": "K2-100 b",
+            "data": {
+                "pl_orbper": "1.673916",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2017-02",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-101 b",
+            "data": {
+                "pl_orbper": "14.675828",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2017-02",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-102 b",
+            "data": {
+                "pl_orbper": "9.9147",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2017-02",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-104 b",
+            "data": {
+                "pl_orbper": "1.9741",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2017-02",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-105 b",
+            "data": {
+                "pl_orbper": "8.2669589",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-04",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-108 b",
+            "data": {
+                "pl_orbper": "4.733999",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-04",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-10 b",
+            "data": {
+                "pl_orbper": "19.307044",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-113 b",
+            "data": {
+                "pl_orbper": "5.817685",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-115 b",
+            "data": {
+                "pl_orbper": "20.272615",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-117 b",
+            "data": {
+                "pl_orbper": "1.29159723",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-117 c",
+            "data": {
+                "pl_orbper": "5.44425",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-118 b",
+            "data": {
+                "pl_orbper": "50.92092",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-119 b",
+            "data": {
+                "pl_orbper": "7.728",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-11 b",
+            "data": {
+                "pl_orbper": "39.8478",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-120 b",
+            "data": {
+                "pl_orbper": "9.562742",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-121 b",
+            "data": {
+                "pl_orbper": "5.185761",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-122 b",
+            "data": {
+                "pl_orbper": "2.219405",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-123 b",
+            "data": {
+                "pl_orbper": "30.9542",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-124 b",
+            "data": {
+                "pl_orbper": "6.413651",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-133 b",
+            "data": {
+                "pl_orbper": "3.0712",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2018-01",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-133 c",
+            "data": {
+                "pl_orbper": "4.86784",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2018-01",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-133 d",
+            "data": {
+                "pl_orbper": "11.0234",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2018-01",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-133 e",
+            "data": {
+                "pl_orbper": "26.5841",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-13 b",
+            "data": {
+                "pl_orbper": "40.062771",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-141 b",
+            "data": {
+                "pl_orbper": "0.2803246",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-141 c",
+            "data": {
+                "pl_orbper": "7.7485",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-148 b",
+            "data": {
+                "pl_orbper": "4.38395",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-148 c",
+            "data": {
+                "pl_orbper": "6.9226",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-148 d",
+            "data": {
+                "pl_orbper": "9.7579",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-149 b",
+            "data": {
+                "pl_orbper": "11.332",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-14 b",
+            "data": {
+                "pl_orbper": "8.36779",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-150 b",
+            "data": {
+                "pl_orbper": "10.59357",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-151 b",
+            "data": {
+                "pl_orbper": "3.835476",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-153 b",
+            "data": {
+                "pl_orbper": "7.51554",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-154 b",
+            "data": {
+                "pl_orbper": "3.67626",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-154 c",
+            "data": {
+                "pl_orbper": "7.95486",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-159 b",
+            "data": {
+                "pl_orbper": "12.42205",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-15 b",
+            "data": {
+                "pl_orbper": "11.808398",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-160 b",
+            "data": {
+                "pl_orbper": "3.705871",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-161 b",
+            "data": {
+                "pl_orbper": "9.283188",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-162 b",
+            "data": {
+                "pl_orbper": "9.45889",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-163 b",
+            "data": {
+                "pl_orbper": "6.673117",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-164 b",
+            "data": {
+                "pl_orbper": "17.355066",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-165 b",
+            "data": {
+                "pl_orbper": "2.354992",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-165 c",
+            "data": {
+                "pl_orbper": "4.382745",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-165 d",
+            "data": {
+                "pl_orbper": "14.101361",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-166 b",
+            "data": {
+                "pl_orbper": "8.52695",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-16 b",
+            "data": {
+                "pl_orbper": "7.61856",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-16 c",
+            "data": {
+                "pl_orbper": "19.07536",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-175 b",
+            "data": {
+                "pl_orbper": "9.525988",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-180 b",
+            "data": {
+                "pl_orbper": "8.867259",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-181 b",
+            "data": {
+                "pl_orbper": "6.894287",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-182 b",
+            "data": {
+                "pl_orbper": "4.7369729",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-184 b",
+            "data": {
+                "pl_orbper": "16.995848",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-185 b",
+            "data": {
+                "pl_orbper": "10.616384",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-185 c",
+            "data": {
+                "pl_orbper": "52.7099",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-186 b",
+            "data": {
+                "pl_orbper": "41.4661",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-187 b",
+            "data": {
+                "pl_orbper": "0.77401",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-187 c",
+            "data": {
+                "pl_orbper": "2.871512",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-187 d",
+            "data": {
+                "pl_orbper": "7.15",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-187 e",
+            "data": {
+                "pl_orbper": "13.60496",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-188 b",
+            "data": {
+                "pl_orbper": "1.742983",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-188 c",
+            "data": {
+                "pl_orbper": "7.809757",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-18 b",
+            "data": {
+                "pl_orbper": "32.940045",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-18 c",
+            "data": {
+                "pl_orbper": "8.962",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-12",
+                "disc_facility": "La Silla Observatory",
+                "disc_telescope": "3.6 m ESO Telescope",
+                "disc_instrument": "HARPS Spectrograph"
+            }
+        },
+        {
+            "name": "K2-19 b",
+            "data": {
+                "pl_orbper": "7.919493",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2016-06",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-19 c",
+            "data": {
+                "pl_orbper": "11.90727",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2016-06",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-19 d",
+            "data": {
+                "pl_orbper": "2.5081",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-06",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-209 b",
+            "data": {
+                "pl_orbper": "2.080615",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-210 b",
+            "data": {
+                "pl_orbper": "0.570233",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-211 b",
+            "data": {
+                "pl_orbper": "0.669532",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-212 b",
+            "data": {
+                "pl_orbper": "9.795546",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-213 b",
+            "data": {
+                "pl_orbper": "8.13087",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-214 b",
+            "data": {
+                "pl_orbper": "8.596531",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-215 b",
+            "data": {
+                "pl_orbper": "8.26947",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-216 b",
+            "data": {
+                "pl_orbper": "2.1748",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-217 b",
+            "data": {
+                "pl_orbper": "14.074524",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-219 b",
+            "data": {
+                "pl_orbper": "3.901287",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-219 c",
+            "data": {
+                "pl_orbper": "6.66767",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-219 d",
+            "data": {
+                "pl_orbper": "11.13878",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-220 b",
+            "data": {
+                "pl_orbper": "13.68275",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-221 b",
+            "data": {
+                "pl_orbper": "2.399094",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-227 b",
+            "data": {
+                "pl_orbper": "13.621832",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-22 b",
+            "data": {
+                "pl_orbper": "0.381073",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-230 b",
+            "data": {
+                "pl_orbper": "2.860636",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-239 b",
+            "data": {
+                "pl_orbper": "5.24",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-239 c",
+            "data": {
+                "pl_orbper": "7.775",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-239 d",
+            "data": {
+                "pl_orbper": "10.115",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-246 b",
+            "data": {
+                "pl_orbper": "5.76918",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-251 b",
+            "data": {
+                "pl_orbper": "9.30075",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-255 b",
+            "data": {
+                "pl_orbper": "1.96417",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-257 b",
+            "data": {
+                "pl_orbper": "1.60588",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-258 b",
+            "data": {
+                "pl_orbper": "19.0921",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-261 b",
+            "data": {
+                "pl_orbper": "11.63345",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-263 b",
+            "data": {
+                "pl_orbper": "50.8213",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-264 b",
+            "data": {
+                "pl_orbper": "5.840002",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-264 c",
+            "data": {
+                "pl_orbper": "19.66365",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-266 b",
+            "data": {
+                "pl_orbper": "0.658524",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-266 c",
+            "data": {
+                "pl_orbper": "7.814",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-266 d",
+            "data": {
+                "pl_orbper": "14.69891247",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-266 e",
+            "data": {
+                "pl_orbper": "19.482",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-268 b",
+            "data": {
+                "pl_orbper": "2.151894",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-268 c",
+            "data": {
+                "pl_orbper": "9.3261",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-268 d",
+            "data": {
+                "pl_orbper": "4.52905",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-268 e",
+            "data": {
+                "pl_orbper": "6.13174",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-268 f",
+            "data": {
+                "pl_orbper": "26.2678",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-270 b",
+            "data": {
+                "pl_orbper": "1.543452",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-270 c",
+            "data": {
+                "pl_orbper": "4.399871",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-271 b",
+            "data": {
+                "pl_orbper": "8.5623265",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-272 b",
+            "data": {
+                "pl_orbper": "14.4536756",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-273 b",
+            "data": {
+                "pl_orbper": "11.71571445",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-274 b",
+            "data": {
+                "pl_orbper": "14.133427",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-275 b",
+            "data": {
+                "pl_orbper": "3.281",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-275 c",
+            "data": {
+                "pl_orbper": "8.438756",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-276 b",
+            "data": {
+                "pl_orbper": "18.7132",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-27 b",
+            "data": {
+                "pl_orbper": "6.771315",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-281 b",
+            "data": {
+                "pl_orbper": "8.687708",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-282 b",
+            "data": {
+                "pl_orbper": "4.17032",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-283 b",
+            "data": {
+                "pl_orbper": "1.921036",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-285 b",
+            "data": {
+                "pl_orbper": "3.4715644",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2019-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-285 c",
+            "data": {
+                "pl_orbper": "7.138048",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2019-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-285 d",
+            "data": {
+                "pl_orbper": "10.45582",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2019-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-285 e",
+            "data": {
+                "pl_orbper": "14.76289",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2019-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-295 b",
+            "data": {
+                "pl_orbper": "4.024867",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2019-06",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-308 b",
+            "data": {
+                "pl_orbper": "3.38628",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-312 c",
+            "data": {
+                "pl_orbper": "921.2",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-04",
+                "disc_facility": "Roque de los Muchachos Observatory",
+                "disc_telescope": "3.58 m Telescopio Nazionale Galileo",
+                "disc_instrument": "HARPS-N Spectrograph"
+            }
+        },
+        {
+            "name": "K2-319 b",
+            "data": {
+                "pl_orbper": "26.68",
+                "discoverymethod": "Transit",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-320 b",
+            "data": {
+                "pl_orbper": "1.995",
+                "discoverymethod": "Transit",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-321 b",
+            "data": {
+                "pl_orbper": "2.29801434",
+                "discoverymethod": "Transit",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-322 b",
+            "data": {
+                "pl_orbper": "8.205",
+                "discoverymethod": "Transit",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-323 b",
+            "data": {
+                "pl_orbper": "24.93",
+                "discoverymethod": "Transit",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-326 b",
+            "data": {
+                "pl_orbper": "1.256",
+                "discoverymethod": "Transit",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-330 b",
+            "data": {
+                "pl_orbper": "13.773",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-331 b",
+            "data": {
+                "pl_orbper": "9.398977",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-331 c",
+            "data": {
+                "pl_orbper": "22.996591",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-333 b",
+            "data": {
+                "pl_orbper": "14.759859",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-334 b",
+            "data": {
+                "pl_orbper": "5.1138428",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-335 b",
+            "data": {
+                "pl_orbper": "12.282343",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-336 b",
+            "data": {
+                "pl_orbper": "21.191788",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-337 b",
+            "data": {
+                "pl_orbper": "16.273563",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-339 b",
+            "data": {
+                "pl_orbper": "19.507428",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-340 b",
+            "data": {
+                "pl_orbper": "29.729",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-341 b",
+            "data": {
+                "pl_orbper": "36.556251",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-342 b",
+            "data": {
+                "pl_orbper": "11.561514",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-343 b",
+            "data": {
+                "pl_orbper": "2.787174",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-343 c",
+            "data": {
+                "pl_orbper": "7.676984",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-344 b",
+            "data": {
+                "pl_orbper": "3.355854",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-345 b",
+            "data": {
+                "pl_orbper": "10.366",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-346 b",
+            "data": {
+                "pl_orbper": "26.20069078",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-347 b",
+            "data": {
+                "pl_orbper": "7.187",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-348 b",
+            "data": {
+                "pl_orbper": "4.6886342",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-348 c",
+            "data": {
+                "pl_orbper": "12.550171",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-34 b",
+            "data": {
+                "pl_orbper": "2.996",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-352 b",
+            "data": {
+                "pl_orbper": "3.665912",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-352 c",
+            "data": {
+                "pl_orbper": "8.234885",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-352 d",
+            "data": {
+                "pl_orbper": "14.869943",
+                "discoverymethod": "Transit",
+                "disc_year": "2018",
+                "disc_pubdate": "2018-07",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-354 b",
+            "data": {
+                "pl_orbper": "3.793306",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-10",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-355 b",
+            "data": {
+                "pl_orbper": "5.7385647",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2022-01",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-356 b",
+            "data": {
+                "pl_orbper": "21.0267366",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2022-01",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-357 b",
+            "data": {
+                "pl_orbper": "16.3488637",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2022-01",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-358 b",
+            "data": {
+                "pl_orbper": "11.2510285",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2022-01",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-35 b",
+            "data": {
+                "pl_orbper": "2.39901",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-35 c",
+            "data": {
+                "pl_orbper": "5.6084",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-36 b",
+            "data": {
+                "pl_orbper": "1.422619",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-36 c",
+            "data": {
+                "pl_orbper": "5.34072",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-371 b",
+            "data": {
+                "pl_orbper": "3.1149085",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-372 b",
+            "data": {
+                "pl_orbper": "9.844",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-373 b",
+            "data": {
+                "pl_orbper": "11.02066",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-374 b",
+            "data": {
+                "pl_orbper": "4.521953",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-374 c",
+            "data": {
+                "pl_orbper": "16.43445",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-375 b",
+            "data": {
+                "pl_orbper": "14.460563",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-376 b",
+            "data": {
+                "pl_orbper": "5.776475",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-384 b",
+            "data": {
+                "pl_orbper": "2.231527",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-384 c",
+            "data": {
+                "pl_orbper": "4.194766",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-384 e",
+            "data": {
+                "pl_orbper": "9.71601",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-384 f",
+            "data": {
+                "pl_orbper": "13.62757",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-385 b",
+            "data": {
+                "pl_orbper": "2.380867",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-387 b",
+            "data": {
+                "pl_orbper": "28.7342",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-390 b",
+            "data": {
+                "pl_orbper": "3.3129214",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-398 b",
+            "data": {
+                "pl_orbper": "6.393025",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-398 c",
+            "data": {
+                "pl_orbper": "18.787839",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-39 b",
+            "data": {
+                "pl_orbper": "4.6028",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-11",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-3 b",
+            "data": {
+                "pl_orbper": "10.05429",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-05",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-3 c",
+            "data": {
+                "pl_orbper": "24.6454",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-05",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-3 d",
+            "data": {
+                "pl_orbper": "44.55983",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-05",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-400 b",
+            "data": {
+                "pl_orbper": "3.865053",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-401 b",
+            "data": {
+                "pl_orbper": "6.293099",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-402 b",
+            "data": {
+                "pl_orbper": "17.27474",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-403 b",
+            "data": {
+                "pl_orbper": "33.589979",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-404 b",
+            "data": {
+                "pl_orbper": "13.115365",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-405 b",
+            "data": {
+                "pl_orbper": "3.435453",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-415 b",
+            "data": {
+                "pl_orbper": "4.0179694",
+                "discoverymethod": "Transit",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-03",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-45 b",
+            "data": {
+                "pl_orbper": "1.729257",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-46 b",
+            "data": {
+                "pl_orbper": "19.1541",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-48 b",
+            "data": {
+                "pl_orbper": "20.5107",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-49 b",
+            "data": {
+                "pl_orbper": "2.770522",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-50 b",
+            "data": {
+                "pl_orbper": "8.75198",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-5 b",
+            "data": {
+                "pl_orbper": "5.73649",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-5 c",
+            "data": {
+                "pl_orbper": "10.93406",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-6 b",
+            "data": {
+                "pl_orbper": "30.944593",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-73 b",
+            "data": {
+                "pl_orbper": "7.49543",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-7 b",
+            "data": {
+                "pl_orbper": "28.6911",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-86 b",
+            "data": {
+                "pl_orbper": "8.775864",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-09",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-8 b",
+            "data": {
+                "pl_orbper": "10.3535",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-8 c",
+            "data": {
+                "pl_orbper": "5.06468",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-95 b",
+            "data": {
+                "pl_orbper": "10.134231",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-97 b",
+            "data": {
+                "pl_orbper": "8.4071591",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-98 b",
+            "data": {
+                "pl_orbper": "10.13892836",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-12",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "K2-9 b",
+            "data": {
+                "pl_orbper": "18.44883",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2015-08",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "KELT-18 b",
+            "data": {
+                "pl_orbper": "2.8717518",
+                "discoverymethod": "Transit",
+                "disc_year": "2017",
+                "disc_pubdate": "2017-06",
+                "disc_facility": "KELT-North",
+                "disc_telescope": "Mamiya 645 80mm f/1.9",
+                "disc_instrument": "Apogee 4K CCD Sensor"
+            }
+        },
+        {
+            "name": "Kepler-1034 b",
+            "data": {
+                "pl_orbper": "12.12400943",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-05",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-1194 b",
+            "data": {
+                "pl_orbper": "16.22371307",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-05",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-121 b",
+            "data": {
+                "pl_orbper": "3.177422",
+                "discoverymethod": "Transit",
+                "disc_year": "2014",
+                "disc_pubdate": "2014-03",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-121 c",
+            "data": {
+                "pl_orbper": "41.00820122",
+                "discoverymethod": "Transit",
+                "disc_year": "2014",
+                "disc_pubdate": "2014-03",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-1549 b",
+            "data": {
+                "pl_orbper": "214.886545",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-05",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-1920 b",
+            "data": {
+                "pl_orbper": "30.25418465",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2022-02",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-1979 b",
+            "data": {
+                "pl_orbper": "18.5084405",
+                "discoverymethod": "Transit",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-05",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-235 b",
+            "data": {
+                "pl_orbper": "3.34021884",
+                "discoverymethod": "Transit",
+                "disc_year": "2014",
+                "disc_pubdate": "2014-03",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-262 b",
+            "data": {
+                "pl_orbper": "13.0607936",
+                "discoverymethod": "Transit",
+                "disc_year": "2014",
+                "disc_pubdate": "2014-03",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-323 b",
+            "data": {
+                "pl_orbper": "1.678327",
+                "discoverymethod": "Transit",
+                "disc_year": "2014",
+                "disc_pubdate": "2014-03",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-454 b",
+            "data": {
+                "pl_orbper": "10.57375768",
+                "discoverymethod": "Transit",
+                "disc_year": "2015",
+                "disc_pubdate": "2016-01",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-495 b",
+            "data": {
+                "pl_orbper": "3.41303622",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-05",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-495 c",
+            "data": {
+                "pl_orbper": "5.89686",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2022-02",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-773 b",
+            "data": {
+                "pl_orbper": "3.74910006",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-05",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-93 b",
+            "data": {
+                "pl_orbper": "4.72673947",
+                "discoverymethod": "Transit",
+                "disc_year": "2014",
+                "disc_pubdate": "2014-02",
+                "disc_facility": "Kepler",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        },
+        {
+            "name": "Kepler-93 c",
+            "data": {
+                "pl_orbper": "1460.0",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2014",
+                "disc_pubdate": "2014-02",
+                "disc_facility": "W. M. Keck Observatory",
+                "disc_telescope": "10 m Keck I Telescope",
+                "disc_instrument": "HIRES Spectrometer"
+            }
+        },
+        {
+            "name": "Ross 128 b",
+            "data": {
+                "pl_orbper": "9.8658",
+                "discoverymethod": "Radial Velocity",
+                "disc_year": "2017",
+                "disc_pubdate": "2018-05",
+                "disc_facility": "La Silla Observatory",
+                "disc_telescope": "3.6 m ESO Telescope",
+                "disc_instrument": "HARPS Spectrograph"
+            }
+        },
+        {
+            "name": "Ross 458 c",
+            "data": {
+                "pl_orbper": "--",
+                "discoverymethod": "Imaging",
+                "disc_year": "2010",
+                "disc_pubdate": "2010-12",
+                "disc_facility": "Las Campanas Observatory",
+                "disc_telescope": "6.5 m Magellan I Baade Telescope",
+                "disc_instrument": "FIRE Spectrograph"
+            }
+        },
+        {
+            "name": "TOI-1136 c",
+            "data": {
+                "pl_orbper": "6.2574",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-10",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-1136 e",
+            "data": {
+                "pl_orbper": "18.801",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-10",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-1260 c",
+            "data": {
+                "pl_orbper": "7.49325",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-08",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-1260 d",
+            "data": {
+                "pl_orbper": "49.82516596",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-12",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-1266 b",
+            "data": {
+                "pl_orbper": "10.8948421",
+                "discoverymethod": "Transit",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-10",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-1266 c",
+            "data": {
+                "pl_orbper": "18.80161111",
+                "discoverymethod": "Transit",
+                "disc_year": "2020",
+                "disc_pubdate": "2020-10",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-1273 b",
+            "data": {
+                "pl_orbper": "4.6313014",
+                "discoverymethod": "Transit",
+                "disc_year": "2024",
+                "disc_pubdate": "2024-02",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-1801 b",
+            "data": {
+                "pl_orbper": "10.6439385",
+                "discoverymethod": "Transit",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-10",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-1807 b",
+            "data": {
+                "pl_orbper": "0.549374",
+                "discoverymethod": "Transit",
+                "disc_year": "2021",
+                "disc_pubdate": "2021-08",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-1855 b",
+            "data": {
+                "pl_orbper": "1.3641482",
+                "discoverymethod": "Transit",
+                "disc_year": "2024",
+                "disc_pubdate": "2024-07",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-2411 b",
+            "data": {
+                "pl_orbper": "0.78276495",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-02",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-260 b",
+            "data": {
+                "pl_orbper": "13.475823",
+                "discoverymethod": "Transit",
+                "disc_year": "2024",
+                "disc_pubdate": "2024-06",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-3884 b",
+            "data": {
+                "pl_orbper": "4.5445569",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-10",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-4600 b",
+            "data": {
+                "pl_orbper": "82.69014391",
+                "discoverymethod": "Transit",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-09",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-4600 c",
+            "data": {
+                "pl_orbper": "482.8191",
+                "discoverymethod": "Transit",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-09",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-5126 c",
+            "data": {
+                "pl_orbper": "17.8999",
+                "discoverymethod": "Transit",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-10",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-5174 b",
+            "data": {
+                "pl_orbper": "12.214286",
+                "discoverymethod": "Transit",
+                "disc_year": "2022",
+                "disc_pubdate": "2022-11",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "TOI-5398 c",
+            "data": {
+                "pl_orbper": "4.7728997",
+                "discoverymethod": "Transit",
+                "disc_year": "2023",
+                "disc_pubdate": "2023-10",
+                "disc_facility": "Transiting Exoplanet Survey Satellite (TESS)",
+                "disc_telescope": "0.1 m TESS Telescope",
+                "disc_instrument": "TESS CCD Array"
+            }
+        },
+        {
+            "name": "WASP-118 b",
+            "data": {
+                "pl_orbper": "4.046005",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-12",
+                "disc_facility": "SuperWASP",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "iKon-L CCD Camera"
+            }
+        },
+        {
+            "name": "WASP-177 b",
+            "data": {
+                "pl_orbper": "3.07171816",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-06",
+                "disc_facility": "SuperWASP",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "iKon-L CCD Camera"
+            }
+        },
+        {
+            "name": "WASP-183 b",
+            "data": {
+                "pl_orbper": "4.1117634",
+                "discoverymethod": "Transit",
+                "disc_year": "2019",
+                "disc_pubdate": "2019-06",
+                "disc_facility": "SuperWASP",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "iKon-L CCD Camera"
+            }
+        },
+        {
+            "name": "WASP-28 b",
+            "data": {
+                "pl_orbper": "3.40883458",
+                "discoverymethod": "Transit",
+                "disc_year": "2014",
+                "disc_pubdate": "2015-01",
+                "disc_facility": "SuperWASP",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "iKon-L CCD Camera"
+            }
+        },
+        {
+            "name": "WASP-38 b",
+            "data": {
+                "pl_orbper": "6.871815",
+                "discoverymethod": "Transit",
+                "disc_year": "2010",
+                "disc_pubdate": "2011-01",
+                "disc_facility": "SuperWASP",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "iKon-L CCD Camera"
+            }
+        },
+        {
+            "name": "WASP-52 b",
+            "data": {
+                "pl_orbper": "1.7497798",
+                "discoverymethod": "Transit",
+                "disc_year": "2012",
+                "disc_pubdate": "2013-01",
+                "disc_facility": "SuperWASP",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "iKon-L CCD Camera"
+            }
+        },
+        {
+            "name": "WASP-60 b",
+            "data": {
+                "pl_orbper": "4.3050061",
+                "discoverymethod": "Transit",
+                "disc_year": "2012",
+                "disc_pubdate": "2013-01",
+                "disc_facility": "SuperWASP",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "iKon-L CCD Camera"
+            }
+        },
+        {
+            "name": "WASP-77 A b",
+            "data": {
+                "pl_orbper": "1.36002895",
+                "discoverymethod": "Transit",
+                "disc_year": "2012",
+                "disc_pubdate": "2013-01",
+                "disc_facility": "SuperWASP",
+                "disc_telescope": "Canon 200mm f/1.8L",
+                "disc_instrument": "iKon-L CCD Camera"
+            }
+        },
+        {
+            "name": "WASP-85 A b",
+            "data": {
+                "pl_orbper": "2.6556744",
+                "discoverymethod": "Transit",
+                "disc_year": "2016",
+                "disc_pubdate": "2016-06",
+                "disc_facility": "K2",
+                "disc_telescope": "0.95 m Kepler Telescope",
+                "disc_instrument": "Kepler CCD Array"
+            }
+        }
+    ]
+}
