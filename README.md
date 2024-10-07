@@ -26,3 +26,5 @@ Beyond these tools, we used the resources given by NASA, that resources are:
 - NASA Exoplanet Archive
 - Astroquery
 - Astropy
+
+[Download the Oculus Quest 3 App](https://drive.google.com/file/d/1Wfac11doN4NxujMCiojoOf75f33D8_8X/view?usp=sharing)
